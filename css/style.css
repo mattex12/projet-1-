@@ -1,0 +1,59 @@
+h1 {
+    text-decoration: underline;
+    font-size: 35px;
+    position: relative;
+    margin-left: 700px;
+    color: gold;
+    text-transform: uppercase;
+    padding-right: 500px;
+}
+
+#logo {
+    width: 200px;
+    float: left;
+}
+
+#image1 {
+    width: 700px;
+    bottom: 225px;
+    position: relative;
+}
+
+#image2 {
+    width: 350px;
+    margin-right: 700px;
+    position: relative;
+    bottom: 230px;
+    height: 200px;
+}
+
+#image3 {
+    width: 350px;
+    position: relative;
+    margin-left: 350px;
+    bottom: 420px;
+    height: 200px;
+}
+
+.text {
+    margin-left: 705px;
+    bottom: 10px;
+    position: relative;
+}
+
+body {
+    position: relative;
+    border-width: 50px;
+    border-color: #1E90FF;
+    border-style: solid;
+    max-width: 1200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+@media only screen and (max-width:1100px) {
+    h1 {
+        font-size: 35px;
+        margin-left: 700px;
+        position: relative;
+    }
+}

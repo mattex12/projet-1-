@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Project: html-css </title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css\style.css" type="text/css">
+</head>
+
+<body><img src="images\Logo.jpg" id="logo">
+
+    <h1 class="text"> Un exemple de photomontage</h1>
+    <ol class="text">
+        <li>
+            Lien vers <a href="images\child-boy-with-apples-park-2358746.jpg ">l'image 1</a>
+
+
+        </li>
+        <li>
+            Lien vers <a href="images\official-jurassic-world-charlie-raptor-dinosaur-lifesize-cardboard-cutout-129cm-product-image.jpg ">l'image 2</a>
+
+        </li>
+        <li>Procédure
+            <ol>
+                <li>Ouvrir les images 1 et 2 dans Photoshop </li>
+                <li>Choisir l'outil de sélection</li>
+                <li>etc.</li>
+
+
+            </ol>
+            <li>Lien vers <a href="images\dino en folie.jpg ">le photomontage</a>
+
+            </li>
+        </li>
+    </ol>
+
+    <img src="images\dino en folie.jpg " id="image1">
+    <img src="images\child-boy-with-apples-park-2358746.jpg " id="image2">
+    <img src="images\official-jurassic-world-charlie-raptor-dinosaur-lifesize-cardboard-cutout-129cm-product-image.jpg  " id="image3">
+
+
+</body>
+
+</html>

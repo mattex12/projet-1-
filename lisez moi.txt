@@ -1,0 +1,6 @@
+Pour adapter l'affichage de ma page sur l'écran de tout mes visiteurs j'ai utilisé la regle "max-width"
+j'y ai aussi adapté la police avec la regle "font-size" afin que les polices s'adaptent constamment à la taille de l'écran et 
+qu'elle reste  lisible
+border color blue: afin de créer un contour bleu tout autour de ma page
+border width : afin de pofiner la taille de ma bordure
+font family: afin de choisir la police d'écriture
